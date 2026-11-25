@@ -1,7 +1,7 @@
 <!--
-  FEDERICO ARIS | GITHUB PROFILE
-  Estética: Emerald Developer
-  Usuario: 421442-Aris-Federico-Nicolas
+  FEDERICO ARIS | GITHUB PROFILE README
+  Theme: Emerald Developer
+  Username: 421442-Aris-Federico-Nicolas
 -->
 
 <!-- ================= HEADER ================= -->
@@ -16,17 +16,21 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=50&lines=Java+%7C+Spring+Boot+%7C+Angular;Full+Stack+Development;Microservices+Architecture;Building+software+solutions"
-    alt="Especialidades"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=50&lines=Java+%7C+Spring+Boot+%7C+Angular;Desarrollo+Full+Stack;Arquitectura+de+Microservicios;Construyendo+soluciones+de+software"
+    alt="Especialidades animadas"
   />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/federico-aris-59775736a/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://pinatech.com.ar/">Pinatech</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/421442-Aris-Federico-Nicolas">GitHub</a>
+  <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pinatech.com.ar/">
+    <img src="https://img.shields.io/badge/PINATECH-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pinatech"/>
+  </a>
+  <a href="https://github.com/421442-Aris-Federico-Nicolas">
+    <img src="https://img.shields.io/badge/GITHUB-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
@@ -35,7 +39,7 @@
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 ¡Hola! Soy **Federico Aris**, estudiante de la Tecnicatura en Programación de la UTN y desarrollador Full Stack en formación.
 
@@ -58,18 +62,18 @@ Mi objetivo es continuar creciendo profesionalmente, afrontar nuevos desafíos y
 
 ---
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css&theme=dark&perline=7" alt="Tecnologías de desarrollo"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,neo4j,docker,git,github&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,neo4j,docker,git,github&theme=dark&perline=8" alt="Backend y herramientas"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,idea,vscode,visualstudio,linux&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postman,idea,vscode,visualstudio,linux&theme=dark&perline=5" alt="Herramientas de desarrollo"/>
 </p>
 
 | Área | Tecnologías |
@@ -82,7 +86,7 @@ Mi objetivo es continuar creciendo profesionalmente, afrontar nuevos desafíos y
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 ### 01 · Pinatech
 
@@ -103,7 +107,7 @@ Proyecto personal orientado al desarrollo de una plataforma de comercio electró
 **Stack tecnológico**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker" alt="Stack de Pinatech"/>
 </p>
 
 **Características y áreas de desarrollo**
@@ -116,7 +120,9 @@ Proyecto personal orientado al desarrollo de una plataforma de comercio electró
 - Integración con servicios externos para funcionalidades del negocio.
 
 <p align="center">
-  <a href="https://pinatech.com.ar/">Explorar Pinatech ↗</a>
+  <a href="https://pinatech.com.ar/">
+    <img src="https://img.shields.io/badge/EXPLORAR_PROYECTO-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar Pinatech"/>
+  </a>
 </p>
 
 ---
@@ -132,7 +138,7 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 **Stack tecnológico**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,electron,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,electron,git,github" alt="Stack de la plataforma"/>
 </p>
 
 **Experiencia y áreas de trabajo**
@@ -150,38 +156,35 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 **Repositorios del proyecto**
 
 <p align="center">
-  <a href="https://github.com/2026-P4-FE/2026-PIV-TPI-FE">Frontend ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/2026-P4-BE/tpi-practical-challenge">Backend ↗</a>
+  <a href="https://github.com/2026-P4-FE/2026-PIV-TPI-FE">
+    <img src="https://img.shields.io/badge/FRONTEND-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio frontend"/>
+  </a>
+  <a href="https://github.com/2026-P4-BE/tpi-practical-challenge">
+    <img src="https://img.shields.io/badge/BACKEND-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio backend"/>
+  </a>
 </p>
 
 ---
 
-## Actividad en GitHub
+## 📈 Actividad en GitHub
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/421442-Aris-Federico-Nicolas/421442-Aris-Federico-Nicolas/output/contribution-fx-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/421442-Aris-Federico-Nicolas/421442-Aris-Federico-Nicolas/output/contribution-fx.svg"
-      width="100%"
-      alt="Calendario animado de contribuciones de GitHub"
-    />
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=421442-Aris-Federico-Nicolas&bg_color=0D1117&color=10B981&line=10B981&point=6EE7B7&area=true&area_color=065F46&hide_border=true&custom_title=Mi%20actividad%20de%20desarrollo"
+    width="100%"
+    alt="Gráfico de actividad de GitHub"
+  />
 </p>
 
 ---
 
-## Actualmente aprendiendo
+## 🌱 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Angular-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microservicios-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-065F46?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-065F46?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservicios-065F46?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-065F46?style=flat-square"/>
 </p>
 
 - Arquitectura de software y sistemas distribuidos.
@@ -191,18 +194,22 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 
 ---
 
-## Conectemos
+## 🤝 Conectemos
 
 <p align="center">
   Estoy abierto a nuevas oportunidades, proyectos y colaboraciones.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/federico-aris-59775736a/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://pinatech.com.ar/">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/421442-Aris-Federico-Nicolas">GitHub</a>
+  <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pinatech.com.ar/">
+    <img src="https://img.shields.io/badge/PINATECH-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pinatech"/>
+  </a>
+  <a href="https://github.com/421442-Aris-Federico-Nicolas">
+    <img src="https://img.shields.io/badge/GITHUB-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
