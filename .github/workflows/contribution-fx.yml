@@ -1,0 +1,31 @@
+
+name: Actualizar contribuciones animadas
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generar SVG
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: 421442-Aris-Federico-Nicolas
+          outputs: |
+            dist/contribution-fx.svg?theme=ripple&palette=github
+            dist/contribution-fx-dark.svg?theme=ripple&palette=github&mode=dark
+
+      - name: Publicar archivos
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
