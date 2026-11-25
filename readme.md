@@ -1,7 +1,7 @@
 <!--
-  FEDERICO ARIS | GITHUB PROFILE README
-  Theme: Emerald Developer
-  Username: 421442-Aris-Federico-Nicolas
+  FEDERICO ARIS | GITHUB PROFILE
+  Emerald Developer Theme
+  GitHub: 421442-Aris-Federico-Nicolas
 -->
 
 <!-- ================= HEADER ================= -->
@@ -21,17 +21,19 @@
   />
 </p>
 
+<!-- ================= SOCIAL LINKS ================= -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/421442-Aris-Federico-Nicolas">
-    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" />
+    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Pinatech"/>
   </a>
 </p>
 
@@ -47,7 +49,7 @@
 
 📍 Córdoba, Argentina.
 
-Me apasiona el desarrollo de software, el diseño de arquitecturas backend y la construcción de aplicaciones modernas y escalables.
+Me interesa el desarrollo de software, el diseño de arquitecturas backend y la construcción de aplicaciones modernas y escalables.
 
 Durante mi formación participé en proyectos académicos y personales trabajando principalmente con **Java, Spring Boot y Angular**.
 
@@ -123,7 +125,7 @@ Proyecto personal orientado al desarrollo de una plataforma de comercio electró
 
 <p align="center">
   <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/EXPLORAR_PROYECTO-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar Pinatech"/>
+    <img src="https://img.shields.io/badge/Explorar%20Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Explorar Pinatech"/>
   </a>
 </p>
 
@@ -159,10 +161,11 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 
 <p align="center">
   <a href="https://github.com/2026-P4-FE/2026-PIV-TPI-FE">
-    <img src="https://img.shields.io/badge/FRONTEND-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio frontend"/>
+    <img src="https://img.shields.io/badge/Frontend-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="Repositorio frontend"/>
   </a>
+  &nbsp;
   <a href="https://github.com/2026-P4-BE/tpi-practical-challenge">
-    <img src="https://img.shields.io/badge/BACKEND-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio backend"/>
+    <img src="https://img.shields.io/badge/Backend-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="Repositorio backend"/>
   </a>
 </p>
 
@@ -183,10 +186,10 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 ## 🌱 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-065F46?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-065F46?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservicios-065F46?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-065F46?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-064E3B?style=flat&logo=springboot&logoColor=10B981&labelColor=0D1117" height="28"/>
+  <img src="https://img.shields.io/badge/Angular-064E3B?style=flat&logo=angular&logoColor=10B981&labelColor=0D1117" height="28"/>
+  <img src="https://img.shields.io/badge/Microservicios-064E3B?style=flat&logo=apachekafka&logoColor=10B981&labelColor=0D1117" height="28"/>
+  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-064E3B?style=flat&logo=openai&logoColor=10B981&labelColor=0D1117" height="28"/>
 </p>
 
 - Arquitectura de software y sistemas distribuidos.
@@ -204,13 +207,15 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/PINATECH-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pinatech"/>
+    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Pinatech"/>
   </a>
+  &nbsp;
   <a href="https://github.com/421442-Aris-Federico-Nicolas">
-    <img src="https://img.shields.io/badge/GITHUB-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="GitHub"/>
   </a>
 </p>
 
