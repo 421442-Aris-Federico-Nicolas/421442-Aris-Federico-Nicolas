@@ -1,13 +1,24 @@
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 HEADER                         -->
-<!-- ═══════════════════════════════════════════════ -->
+<!--
+  FEDERICO ARIS | GITHUB PROFILE
+  Estética: Emerald Developer
+  Usuario: 421442-Aris-Federico-Nicolas
+-->
+
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=FEDERICO%20ARIS&fontSize=52&fontColor=10B981&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=68&descSize=15&descColor=94A3B8" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=FEDERICO%20ARIS&fontSize=52&fontColor=10B981&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=68&descSize=16&descColor=94A3B8"
+    width="100%"
+    alt="Federico Aris"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Angular;Desarrollo+de+Software;Arquitectura+de+Microservicios;Construyendo+soluciones+Full+Stack" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=50&lines=Java+%7C+Spring+Boot+%7C+Angular;Full+Stack+Development;Microservices+Architecture;Building+software+solutions"
+    alt="Especialidades"
+  />
 </p>
 
 <p align="center">
@@ -19,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=421442-Aris-Federico-Nicolas&style=flat&color=10B981&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=421442-Aris-Federico-Nicolas&style=flat&color=10B981&label=VISITAS" alt="Visitas al perfil"/>
 </p>
 
 ---
@@ -30,19 +41,20 @@
 
 📍 Córdoba, Argentina.
 
-Me interesa el desarrollo de software, el diseño de arquitecturas backend y la construcción de aplicaciones modernas y escalables.
+Me apasiona el desarrollo de software, el diseño de arquitecturas backend y la construcción de aplicaciones modernas y escalables.
 
-A través de proyectos académicos y personales fui adquiriendo experiencia con **Java, Spring Boot, Angular, APIs REST y bases de datos**.
+Durante mi formación participé en proyectos académicos y personales trabajando principalmente con **Java, Spring Boot y Angular**.
 
-También participé en proyectos colaborativos de gran escala, trabajando con arquitecturas de microservicios y prácticas de desarrollo similares a las de un entorno profesional:
+También tuve la oportunidad de trabajar en equipos numerosos, acercándome a dinámicas de desarrollo profesional mediante:
 
-- Desarrollo colaborativo con Git y GitHub.
+- Arquitectura de microservicios.
+- Desarrollo de APIs REST.
+- Trabajo colaborativo con Git y GitHub.
 - Pull Requests y revisiones de código.
-- Estrategias de branching y releases.
-- Integración entre servicios independientes.
+- Convenciones de branching y gestión de releases.
 - Desarrollo de aplicaciones web y de escritorio.
 
-Actualmente busco seguir fortaleciendo mis conocimientos y participar en nuevos desafíos de desarrollo de software.
+Mi objetivo es continuar creciendo profesionalmente, afrontar nuevos desafíos y aportar valor a proyectos de software.
 
 ---
 
@@ -66,19 +78,23 @@ Actualmente busco seguir fortaleciendo mis conocimientos y participar en nuevos 
 | Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
 | Bases de datos | PostgreSQL, MySQL, SQL Server, Neo4j |
 | Herramientas | Git, GitHub, Docker, Postman |
-| Conceptos | APIs REST, Microservicios, POO, Clean Architecture |
+| Arquitectura | Microservicios, APIs REST, POO, Clean Architecture |
 
 ---
 
 ## Proyectos destacados
 
-### 01 — Pinatech
+### 01 · Pinatech
 
 **E-commerce de hardware y servicio técnico**
 
 <p align="center">
   <a href="https://pinatech.com.ar/">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=PINATECH&fontSize=36&fontColor=10B981&fontAlignY=55&animation=fadeIn" width="100%" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=PINATECH&fontSize=38&fontColor=10B981&animation=fadeIn"
+      width="100%"
+      alt="Pinatech"
+    />
   </a>
 </p>
 
@@ -105,7 +121,7 @@ Proyecto personal orientado al desarrollo de una plataforma de comercio electró
 
 ---
 
-### 02 — Plataforma de Desafíos Prácticos
+### 02 · Plataforma de Desafíos Prácticos
 
 **Educación, programación y arquitectura de microservicios**
 
@@ -124,7 +140,7 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 - Desarrollo de servicios con Java y Spring Boot.
 - Desarrollo frontend con Angular.
 - Arquitectura de microservicios.
-- Integración entre servicios mediante APIs REST.
+- Integración entre servicios mediante APIs.
 - Gestión de código con Git y GitHub.
 - Pull Requests y revisiones de código.
 - Convenciones de branching y gestión de releases.
@@ -151,8 +167,8 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
     />
     <img
       src="https://raw.githubusercontent.com/421442-Aris-Federico-Nicolas/421442-Aris-Federico-Nicolas/output/contribution-fx.svg"
-      alt="Actividad de contribuciones en GitHub"
       width="100%"
+      alt="Calendario animado de contribuciones de GitHub"
     />
   </picture>
 </p>
@@ -161,11 +177,15 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 
 ## Actualmente aprendiendo
 
-- Java y Spring Boot avanzado.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Angular-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservicios-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-10B981?style=flat-square" />
+</p>
+
+- Arquitectura de software y sistemas distribuidos.
 - Spring Security y autenticación.
-- Angular y arquitectura frontend.
-- Microservicios y sistemas distribuidos.
-- Arquitectura de software y patrones de diseño.
 - Testing y calidad de código.
 - Agentes de inteligencia artificial y automatizaciones.
 
@@ -173,7 +193,9 @@ La plataforma busca complementar el aprendizaje de programación mediante desaf�
 
 ## Conectemos
 
-Estoy abierto a nuevas oportunidades, proyectos y colaboraciones.
+<p align="center">
+  Estoy abierto a nuevas oportunidades, proyectos y colaboraciones.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">LinkedIn</a>
@@ -188,5 +210,9 @@ Estoy abierto a nuevas oportunidades, proyectos y colaboraciones.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=75&section=footer&text=GRACIAS%20POR%20VISITAR%20MI%20PERFIL&fontSize=14&fontColor=10B981&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=75&section=footer&text=GRACIAS%20POR%20VISITAR%20MI%20PERFIL&fontSize=14&fontColor=10B981&animation=fadeIn"
+    width="100%"
+    alt="Gracias por visitar mi perfil"
+  />
 </p>
