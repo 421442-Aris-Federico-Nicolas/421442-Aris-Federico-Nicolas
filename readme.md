@@ -23,13 +23,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" />
   </a>
-  <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/PINATECH-065F46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pinatech"/>
-  </a>
+  &nbsp;
   <a href="https://github.com/421442-Aris-Federico-Nicolas">
-    <img src="https://img.shields.io/badge/GITHUB-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://pinatech.com.ar/">
+    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" />
   </a>
 </p>
 
