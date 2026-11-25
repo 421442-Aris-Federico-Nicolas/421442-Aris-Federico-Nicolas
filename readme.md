@@ -12,7 +12,7 @@
   <a href="https://pinatech.com.ar/">
     <img src="https://img.shields.io/badge/Proyecto-Pinatech-333333?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=4A90E2&label=VISITAS+AL+PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=421442-Aris-Federico-Nicolas&style=flat-square&color=4A90E2&label=VISITAS+AL+PERFIL" />
 </p>
 
 ---
@@ -113,12 +113,12 @@ Proyecto universitario colaborativo orientado a la enseñanza de programación m
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=default&rank_icon=github&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=default&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=421442-Aris-Federico-Nicolas&show_icons=true&hide_border=true&theme=default&rank_icon=github&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=421442-Aris-Federico-Nicolas&layout=compact&hide_border=true&theme=default&locale=es" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&hide_border=true&locale=es" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=421442-Aris-Federico-Nicolas&theme=default&hide_border=true&locale=es" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ Proyecto universitario colaborativo orientado a la enseñanza de programación m
 ## 🐍 Actividad de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" />
+  <img src="https://raw.githubusercontent.com/421442-Aris-Federico-Nicolas/421442-Aris-Federico-Nicolas/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" />
 </p>
 
 ---
