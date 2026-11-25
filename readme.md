@@ -1,232 +1,146 @@
-<!--
-  FEDERICO ARIS | GITHUB PROFILE
-  Emerald Developer Theme
-  GitHub: 421442-Aris-Federico-Nicolas
--->
-
-<!-- ================= HEADER ================= -->
+# Federico Aris
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=FEDERICO%20ARIS&fontSize=52&fontColor=10B981&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=68&descSize=16&descColor=94A3B8"
-    width="100%"
-    alt="Federico Aris"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:22D3EE,100:A78BFA&height=180&section=header&text=Federico%20Aris&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Encabezado Federico Aris"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=50&lines=Java+%7C+Spring+Boot+%7C+Angular;Desarrollo+Full+Stack;Arquitectura+de+Microservicios;Construyendo+soluciones+de+software"
-    alt="Especialidades animadas"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;Java+%7C+Spring+Boot+%7C+Angular;Construyendo+soluciones+con+tecnolog%C3%ADa" alt="Presentación animada"/>
 </p>
-
-<!-- ================= SOCIAL LINKS ================= -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-172554?style=flat&logo=linkedin&logoColor=22D3EE&labelColor=0B1020" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://github.com/421442-Aris-Federico-Nicolas">
-    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-172554?style=flat&logo=github&logoColor=22D3EE&labelColor=0B1020" alt="GitHub"/>
   </a>
-  &nbsp;
   <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Pinatech"/>
+    <img src="https://img.shields.io/badge/Pinatech-Website-172554?style=flat&logo=googlechrome&logoColor=22D3EE&labelColor=0B1020" alt="Pinatech"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=421442-Aris-Federico-Nicolas&style=flat&color=10B981&label=VISITAS" alt="Visitas al perfil"/>
-</p>
+---
+
+## Sobre mí
+
+Soy estudiante de la **Tecnicatura en Programación en la UTN** y desarrollador Full Stack en formación, interesado en el desarrollo de software, el diseño de arquitecturas y la construcción de aplicaciones web.
+
+Durante mi formación participé en proyectos académicos y personales que me permitieron trabajar con tecnologías como **Java, Spring Boot y Angular**, además de incorporar prácticas de desarrollo colaborativo en equipos numerosos.
+
+En proyectos universitarios trabajé con arquitectura de microservicios, desarrollo de APIs REST y herramientas de colaboración como Git y GitHub, aplicando flujos de trabajo con ramas, Pull Requests, revisiones de código y releases.
+
+También desarrollo proyectos propios, como **Pinatech**, donde integro tecnologías de frontend, backend y bases de datos para construir una solución de comercio electrónico.
+
+Me interesa seguir aprendiendo, resolver problemas y participar en proyectos donde pueda aportar y continuar creciendo como desarrollador.
 
 ---
 
-## 👨‍💻 Sobre mí
+## Tecnologías y herramientas
 
-¡Hola! Soy **Federico Aris**, estudiante de la Tecnicatura en Programación de la UTN y desarrollador Full Stack en formación.
-
-📍 Córdoba, Argentina.
-
-Me interesa el desarrollo de software, el diseño de arquitecturas backend y la construcción de aplicaciones modernas y escalables.
-
-Durante mi formación participé en proyectos académicos y personales trabajando principalmente con **Java, Spring Boot y Angular**.
-
-También tuve la oportunidad de trabajar en equipos numerosos, acercándome a dinámicas de desarrollo profesional mediante:
-
-- Arquitectura de microservicios.
-- Desarrollo de APIs REST.
-- Trabajo colaborativo con Git y GitHub.
-- Pull Requests y revisiones de código.
-- Convenciones de branching y gestión de releases.
-- Desarrollo de aplicaciones web y de escritorio.
-
-Mi objetivo es continuar creciendo profesionalmente, afrontar nuevos desafíos y aportar valor a proyectos de software.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css&theme=dark&perline=7" alt="Tecnologías de desarrollo"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,neo4j,docker,git,github&theme=dark&perline=8" alt="Backend y herramientas"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,idea,vscode,visualstudio,linux&theme=dark&perline=5" alt="Herramientas de desarrollo"/>
-</p>
-
-| Área | Tecnologías |
-|:--|:--|
-| Backend | Java, Spring Boot, C#, .NET |
-| Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
-| Bases de datos | PostgreSQL, MySQL, SQL Server, Neo4j |
-| Herramientas | Git, GitHub, Docker, Postman |
-| Arquitectura | Microservicios, APIs REST, POO, Clean Architecture |
-
----
-
-## 🚀 Proyectos destacados
-
-### 01 · Pinatech
-
-**E-commerce de hardware y servicio técnico**
-
-<p align="center">
-  <a href="https://pinatech.com.ar/">
-    <img
-      src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=PINATECH&fontSize=38&fontColor=10B981&animation=fadeIn"
-      width="100%"
-      alt="Pinatech"
-    />
-  </a>
-</p>
-
-Proyecto personal orientado al desarrollo de una plataforma de comercio electrónico para la venta de componentes informáticos y la gestión de servicios técnicos.
-
-**Stack tecnológico**
-
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker" alt="Stack de Pinatech"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" alt="Tecnologías backend"/>
 </p>
 
-**Características y áreas de desarrollo**
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Tecnologías frontend"/>
+</p>
 
-- Aplicación Full Stack.
-- Backend desarrollado con Java y Spring Boot.
-- Frontend desarrollado con Angular.
-- Persistencia de datos con PostgreSQL.
-- Entorno de desarrollo con Docker.
-- Integración con servicios externos para funcionalidades del negocio.
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Bases de datos"/>
+</p>
 
-<p align="center">
-  <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/Explorar%20Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Explorar Pinatech"/>
-  </a>
+### Herramientas y entorno
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,idea,visualstudio" alt="Herramientas de desarrollo"/>
 </p>
 
 ---
 
-### 02 · Plataforma de Desafíos Prácticos
+## Proyectos destacados
 
-**Educación, programación y arquitectura de microservicios**
+### Pinatech — E-commerce y servicio técnico
 
-Proyecto universitario colaborativo desarrollado por múltiples equipos, con una estructura de trabajo basada en servicios independientes.
-
-La plataforma busca complementar el aprendizaje de programación mediante desafíos prácticos y teóricos, incorporando elementos de gamificación.
-
-**Stack tecnológico**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,electron,git,github" alt="Stack de la plataforma"/>
+<p align="center">
+  <a href="https://pinatech.com.ar/">
+    <img src="https://img.shields.io/badge/Pinatech-Visitar%20proyecto-172554?style=flat&logo=googlechrome&logoColor=22D3EE&labelColor=0B1020" alt="Visitar Pinatech"/>
+  </a>
 </p>
 
-**Experiencia y áreas de trabajo**
+Proyecto personal orientado a la venta de hardware informático y la prestación de servicios técnicos.
 
-- Desarrollo de servicios con Java y Spring Boot.
-- Desarrollo frontend con Angular.
-- Arquitectura de microservicios.
-- Integración entre servicios mediante APIs.
-- Gestión de código con Git y GitHub.
-- Pull Requests y revisiones de código.
-- Convenciones de branching y gestión de releases.
-- Desarrollo de una aplicación de escritorio con Electron.
-- Integración de herramientas de desarrollo e inteligencia artificial.
+Desarrollado como una aplicación web Full Stack, integrando frontend, backend y persistencia de datos.
 
-**Repositorios del proyecto**
+**Tecnologías principales:**
+- Angular
+- Java y Spring Boot
+- PostgreSQL
+- Docker
+
+### Plataforma de Desafíos Prácticos — UTN
 
 <p align="center">
   <a href="https://github.com/2026-P4-FE/2026-PIV-TPI-FE">
-    <img src="https://img.shields.io/badge/Frontend-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="Repositorio frontend"/>
+    <img src="https://img.shields.io/badge/Frontend-Repositorio-172554?style=flat&logo=github&logoColor=22D3EE&labelColor=0B1020" alt="Repositorio frontend"/>
   </a>
-  &nbsp;
   <a href="https://github.com/2026-P4-BE/tpi-practical-challenge">
-    <img src="https://img.shields.io/badge/Backend-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="Repositorio backend"/>
+    <img src="https://img.shields.io/badge/Backend-Repositorio-172554?style=flat&logo=github&logoColor=22D3EE&labelColor=0B1020" alt="Repositorio backend"/>
   </a>
 </p>
 
+Proyecto académico colaborativo desarrollado en un entorno de trabajo grupal, con una arquitectura distribuida basada en microservicios.
+
+La plataforma propone desafíos prácticos para estudiantes, integrando herramientas de desarrollo y funcionalidades educativas.
+
+**Tecnologías y prácticas:**
+- Java y Spring Boot
+- Angular y TypeScript
+- Arquitectura de microservicios
+- APIs REST
+- Git y GitHub
+- Pull Requests y Code Reviews
+- Releases y convenciones de branching
+- Aplicación de escritorio con Electron
+
 ---
 
-## 📈 Actividad en GitHub
+## Contribuciones
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=421442-Aris-Federico-Nicolas&bg_color=0D1117&color=10B981&line=10B981&point=6EE7B7&area=true&area_color=065F46&hide_border=true&custom_title=Mi%20actividad%20de%20desarrollo"
-    width="100%"
-    alt="Gráfico de actividad de GitHub"
-  />
+  <img src="https://ghchart.rshah.org/22D3EE/421442-Aris-Federico-Nicolas" alt="Calendario de contribuciones de GitHub" width="100%"/>
 </p>
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-064E3B?style=flat&logo=springboot&logoColor=10B981&labelColor=0D1117" height="28"/>
-  <img src="https://img.shields.io/badge/Angular-064E3B?style=flat&logo=angular&logoColor=10B981&labelColor=0D1117" height="28"/>
-  <img src="https://img.shields.io/badge/Microservicios-064E3B?style=flat&logo=apachekafka&logoColor=10B981&labelColor=0D1117" height="28"/>
-  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-064E3B?style=flat&logo=openai&logoColor=10B981&labelColor=0D1117" height="28"/>
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-Backend-172554?style=flat&logo=spring&logoColor=22D3EE&labelColor=0B1020" alt="Java y Spring Boot"/>
+  <img src="https://img.shields.io/badge/Angular-Frontend-172554?style=flat&logo=angular&logoColor=22D3EE&labelColor=0B1020" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-172554?style=flat&logo=databricks&logoColor=22D3EE&labelColor=0B1020" alt="Microservicios"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-172554?style=flat&logo=docker&logoColor=22D3EE&labelColor=0B1020" alt="Docker"/>
 </p>
-
-- Arquitectura de software y sistemas distribuidos.
-- Spring Security y autenticación.
-- Testing y calidad de código.
-- Agentes de inteligencia artificial y automatizaciones.
 
 ---
 
-## 🤝 Conectemos
-
-<p align="center">
-  Estoy abierto a nuevas oportunidades, proyectos y colaboraciones.
-</p>
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-aris-59775736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=flat&logo=linkedin&logoColor=10B981&labelColor=0D1117" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-172554?style=flat&logo=linkedin&logoColor=22D3EE&labelColor=0B1020" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://pinatech.com.ar/">
-    <img src="https://img.shields.io/badge/Pinatech-064E3B?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0D1117" height="35" alt="Pinatech"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/421442-Aris-Federico-Nicolas">
-    <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=10B981&labelColor=0D1117" height="35" alt="GitHub"/>
+  <a href="mailto:federicoaris.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-172554?style=flat&logo=gmail&logoColor=22D3EE&labelColor=0B1020" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Construir. Aprender. Compartir. Evolucionar.</i>
+  <sub>Construyendo, aprendiendo y mejorando una línea de código a la vez.</sub>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=75&section=footer&text=GRACIAS%20POR%20VISITAR%20MI%20PERFIL&fontSize=14&fontColor=10B981&animation=fadeIn"
-    width="100%"
-    alt="Gracias por visitar mi perfil"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:22D3EE,100:A78BFA&height=100&section=footer" width="100%" alt="Separador decorativo"/>
 </p>
