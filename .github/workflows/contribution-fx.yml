@@ -1,4 +1,5 @@
-name: Contribution FX
+
+name: Generar contribuciones animadas
 
 on:
   schedule:
@@ -11,15 +12,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Sur1ive/contribution-fx@v1
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/contribution-fx.svg?theme=ripple&palette=ocean
-            dist/contribution-fx-dark.svg?theme=ripple&palette=ocean&mode=dark
 
-      - uses: crazy-max/ghaction-github-pages@v5
+    steps:
+      - name: Generar SVG animados
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: 421442-Aris-Federico-Nicolas
+          outputs: |
+            dist/contribution-fx.svg?theme=ripple&palette=github
+            dist/contribution-fx-dark.svg?theme=ripple&palette=github&mode=dark
+
+      - name: Publicar SVG
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
