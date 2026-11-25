@@ -1,31 +1,48 @@
-Hola, soy Federico Aris
+# 👋 Hola, soy Federico Aris
 
-Desarrollador Full Stack Junior de Córdoba, Argentina. Construyo aplicaciones web completas con Java, Spring Boot, Angular y PostgreSQL.
+### Desarrollador Full Stack en formación | Java · Spring Boot · Angular
 
-Estudio la Tecnicatura Universitaria en Programación en la UTN (me recibo en julio de 2027) y antes cursé tres años de Ingeniería en Sistemas. Busco mi primer puesto como desarrollador, en Córdoba (híbrido) o remoto.
+Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN**, de Córdoba, Argentina. Desarrollo proyectos personales y académicos para convertir lo que aprendo en soluciones concretas.
 
-Portfolio · LinkedIn · fedearis75@gmail.com
+Me interesa construir aplicaciones que conecten un backend bien organizado, una interfaz clara y un modelo de datos sólido. Actualmente profundizo en **Java, Spring Boot y APIs REST**, complementando mi experiencia con **Angular, C# y .NET**.
 
-Proyecto destacado: Pinatech
+## 🛠️ Tecnologías y herramientas
 
-Tienda online de hardware con servicio técnico, en producción en pinatech.com.ar.
+| Área | Tecnologías |
+| --- | --- |
+| Backend | Java, Spring Boot, C#, .NET, Entity Framework Core |
+| Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
+| Bases de datos | PostgreSQL, SQL Server, MySQL, MongoDB, Neo4j |
+| Entorno y herramientas | Docker, Git, GitHub, Postman, Linux básico |
+| IDEs y editores | IntelliJ IDEA, Visual Studio, VS Code |
 
-Backend en Spring Boot organizado como monolito modular de 17 módulos: catálogo, inventario, pedidos, pagos, envíos, tickets y más.
-Pagos con Mercado Pago y transferencia, con webhooks validados contra el proveedor y conciliación idempotente.
-Envíos a domicilio integrados con la API de Zipnova.
-Autenticación con Spring Security, JWT y refresh tokens rotativos en cookies HttpOnly.
-376 tests de backend, 34 migraciones con Flyway y CI en GitHub Actions.
+## 🚀 Proyectos
 
-Java 21 Spring Boot 3.5 Angular 21 PostgreSQL 17 Docker Compose GitHub Actions
+### 🖥️ Pinatech
 
-En qué estoy trabajando
+Aplicación web de venta de hardware y servicio técnico, con catálogo público y un panel de administración para gestionar productos y pedidos.
 
-Plataforma educativa gamificada (UTN). Un proyecto entre varios equipos para aprender programación con desafíos, experiencia y recompensas. Trabajo en el módulo de Desafíos Prácticos: contratos de integración, versionado de desafíos y evaluación del código de los estudiantes.
+- **Stack:** Angular, Spring Boot, PostgreSQL y Docker.
+- **Enfoque:** desarrollo Full Stack, diseño de APIs REST y persistencia de datos.
+- **Sitio:** [pinatech.com.ar](https://pinatech.com.ar)
 
-Tecnologías
-Área	Tecnologías
-Backend	Java, Spring Boot, Spring Security, JPA/Hibernate, Flyway, C#, ASP.NET Core, Entity Framework Core
-Frontend	Angular, TypeScript, JavaScript, HTML, CSS
-Bases de datos	PostgreSQL, SQL Server, MySQL, MongoDB, Neo4j
-Herramientas	Docker, Docker Compose, Git, GitHub Actions, Postman, Linux
-Diseño	Requerimientos, UML, arquitectura por capas, SOLID, patrones de diseño
+### 🎓 Plataforma educativa gamificada
+
+Proyecto académico desarrollado entre equipos, orientado al aprendizaje de programación mediante desafíos, experiencia y recompensas.
+
+- Participo en el módulo de **Desafíos Prácticos**.
+- Trabajo en la definición de contratos de integración, versionado de desafíos y flujos de evaluación de código.
+- **Tecnologías del proyecto:** Java, Spring Boot y Angular.
+
+## 🌱 En qué estoy trabajando
+
+- Diseño de APIs REST y separación de responsabilidades.
+- Integración entre servicios y arquitecturas con microservicios.
+- Modelado de datos y buenas prácticas de persistencia.
+- Uso de herramientas de IA y agentes como apoyo al desarrollo, con revisión y validación del código.
+
+## 🤝 Intereses profesionales
+
+Me interesan las oportunidades como **Junior Full Stack Developer**, especialmente en proyectos con Java/Spring Boot, Angular o .NET, en modalidad remota o híbrida en Córdoba.
+
+Disfruto aprender en equipo, analizar problemas y mejorar mis proyectos de forma continua.
